@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Who am I
+twitter_username: rkrdotcom
+name: Ravikanth Narayanabhatla
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
@@ -13,14 +13,14 @@ primarylinks:
    url: https://dzone.com/users/899489/rhinds.html
 #Any buzzword skills you want to include
 skills:
- - Groovy
- - Spring MVC
- - Spring Boot
+ - Analytical
+ - Tech Savvy
+ - Architect
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
 #Work experience is required
 roles:
- - title: Senior Engineer
+ - title: Application Dev Team Lead
    start: 2012
    end: Ongoing
    employer: Covestor
